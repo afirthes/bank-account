@@ -14,8 +14,9 @@
   </properties>
 
   <modules>
-    <module>account.cmd</module>
+    <module>../cqrs-core</module>
     <module>account.common</module>
+    <module>account.cmd</module>
     <module>account.query</module>
   </modules>
 </project>
